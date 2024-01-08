@@ -58,5 +58,8 @@
     "rollup": "^4.9.2",
     "rollup-plugin-dts": "^6.1.0",
     "vitest": "^1.1.1"
+  },
+  "dependencies": {
+    "synk": "^0.0.2"
   }
 }
